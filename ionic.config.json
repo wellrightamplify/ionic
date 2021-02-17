@@ -1,0 +1,7 @@
+{
+  "name": "wellright",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
